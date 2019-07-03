@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1139251182 source:/home/valdir/Prof. Substituto/Disciplinas/Prog 3/Exemplos de Aula/Aula 10/Livro_13_6/BasePlusCommissionEmployee.cpp
+	<iostream>
+	"BasePlusCommissionEmployee.h"
+
+1139251182 /home/valdir/Prof. Substituto/Disciplinas/Prog 3/Exemplos de Aula/Aula 10/Livro_13_6/BasePlusCommissionEmployee.h
+	<string>
+	"CommissionEmployee.h"
+
+1139251182 /home/valdir/Prof. Substituto/Disciplinas/Prog 3/Exemplos de Aula/Aula 10/Livro_13_6/CommissionEmployee.h
+	<string>
+
+1139251182 source:/home/valdir/Prof. Substituto/Disciplinas/Prog 3/Exemplos de Aula/Aula 10/Livro_13_6/CommissionEmployee.cpp
+	<iostream>
+	"CommissionEmployee.h"
+
